@@ -109,10 +109,6 @@
         <!--/#footer-->
 
         <?php include("estructura/scripts.php"); ?>
-        <script>
-            $(document).ready(function(){
-                $("#modal").modal("show");
-            });
-        </script>
+        
     </body>
 </html>
